@@ -1,0 +1,14 @@
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/bin/Debug/net8.0/CLI-Library
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/bin/Debug/net8.0/CLI-Library.deps.json
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/bin/Debug/net8.0/CLI-Library.runtimeconfig.json
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/bin/Debug/net8.0/CLI-Library.dll
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/bin/Debug/net8.0/CLI-Library.pdb
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.AssemblyInfoInputs.cache
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.AssemblyInfo.cs
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.csproj.CoreCompileInputs.cache
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.dll
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/refint/CLI-Library.dll
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.pdb
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/CLI-Library.genruntimeconfig.cache
+/Users/souriehramruttun/Desktop/luke/cSharpPrac/CLI-Library/CLI-Library/obj/Debug/net8.0/ref/CLI-Library.dll
